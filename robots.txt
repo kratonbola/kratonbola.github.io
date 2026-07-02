@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://karyabola.github.io/sitemap.xml
+Sitemap: https://kratonbola.github.io/sitemap.xml
